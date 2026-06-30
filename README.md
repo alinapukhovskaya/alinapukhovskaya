@@ -18,5 +18,4 @@ Independent consulting through Coreso Collaborative: knowledge governance, infor
 
 ## Contact
 
-alina@coresocollaborative.com
-coresocollaborative.com
+www.coresocollaborative.com
