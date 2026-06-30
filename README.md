@@ -1,4 +1,4 @@
-# Alina Pukhovskaya
+# Alina Pukhovskaya, PhD, MBA
 
 Structuring institutional knowledge so AI can be trusted with it.
 
