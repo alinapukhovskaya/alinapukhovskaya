@@ -12,6 +12,13 @@ A four-gap diagnostic framework and a governance system built for an organizatio
 **[Knowledge Governance Strategy for a High-Growth SaaS Company](https://github.com/alinapukhovskaya/knowledge-governance-saas)**
 A 180-day plan to make a fast-growing company's internal knowledge base structured, findable, and AI-ready, reframing AI assistant underperformance as a content governance problem.
 
+## Building with AI Tools
+
+I also build with AI tools directly, not only advise on them.
+
+**[Building a Production Website with Claude Code](https://github.com/alinapukhovskaya/ai-assisted-web-build)**
+How I directed Claude Code and Claude's design tool to ship an eleven-page production website end to end, including the defects the AI produced and how I caught and corrected them.
+
 ## What I Do
 
 Independent consulting through Coreso Collaborative: knowledge governance, information architecture, and Knowledge-Centered Service (KCS) implementation for organizations preparing their internal knowledge for AI.
