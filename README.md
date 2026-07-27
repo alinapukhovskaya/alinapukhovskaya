@@ -19,8 +19,8 @@ I also build with AI tools directly, not only advise on them.
 **[Building a Production Website with Claude Code](https://github.com/alinapukhovskaya/ai-assisted-web-build)**
 How I directed Claude Code and Claude's design tool to ship an eleven-page production website end to end, including the defects the AI produced and how I caught and corrected them.
 
-**[A Governed Agentic System, Built with Claude Code](https://github.com/alinapukhovskaya/claude-code-agent-system)**
-The governed system I built on Claude Code to run my own professional work: a context layer, a persistent memory, a planning skill that routes the work, specialist skills, and external connectors, applying the same governance discipline I design for organizations.
+**[Working with Claude Code](https://github.com/alinapukhovskaya/working-with-claude-code)**
+How I work with Claude Code in VS Code: building structured context and custom workflows to produce real artifacts, choosing the right AI tool for each job, and switching when a better one fits.
 
 ## What I Do
 
