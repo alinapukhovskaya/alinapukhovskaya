@@ -19,6 +19,9 @@ I also build with AI tools directly, not only advise on them.
 **[Building a Production Website with Claude Code](https://github.com/alinapukhovskaya/ai-assisted-web-build)**
 How I directed Claude Code and Claude's design tool to ship an eleven-page production website end to end, including the defects the AI produced and how I caught and corrected them.
 
+**[A Governed Multi-Agent System, Built with Claude Code](https://github.com/alinapukhovskaya/claude-code-agent-system)**
+The governed system I built on Claude Code to run my own professional work: a context layer, a persistent memory, an orchestration agent, specialist skills, and external connectors, applying the same governance discipline I design for organizations.
+
 ## What I Do
 
 Independent consulting through Coreso Collaborative: knowledge governance, information architecture, and Knowledge-Centered Service (KCS) implementation for organizations preparing their internal knowledge for AI.
